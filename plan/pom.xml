@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>Plan-Microservice</name>
-	<description>InfyTel Plan Microservice</description>
+	<description>Plan Microservice</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
